@@ -94,6 +94,9 @@
             <mxPoint x="-231.25" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7yycdCC9Qvw0xV2lZDey-8" value="zulu java&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="153" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
